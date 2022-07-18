@@ -1,2 +1,2 @@
 # TEST1-REPO
-First self class work
+First self class work.
